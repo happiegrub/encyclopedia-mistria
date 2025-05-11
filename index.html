@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="🌱📖✨ a handy lil resource for when you need to look up stuff for fields of mistria!!">
+  <meta name="keywords" content="fields of mistria, fieldsofmistria, mistria, gift guide">
+  <meta name="author" content="happiegrub">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+
+  <title>encyclopedia mistria</title>
+  <link rel="icon" type="image/x-icon" href="img/favicon-scroll.png">
+</head>
+<body>
+  <body data-page="npcs">
+  <div class="nav">
+    <span style="margin:10px;">
+      <a href="/index.html">npcs</a>
+      <a href="/fish.html">fish</a>
+      <a href="/bugs.html">bugs</a>
+      <a href="/bundles.html">bundles</a>
+      <a href="#top">search</a>
+    </span>
+  </div>
+
+  <div class="main">
+  <h1>encyclopedia mistria</h1>
+    <p>
+      <input type="text" id="searchInput" placeholder="  e.g. celine, winter, tea...  ">
+      <button id="resetButton">clear search</button>
+    </p>
+    <span id="checkbox-span">
+    <label><input type="checkbox" id="onlyDateable"><strong>only show romance options</strong></label>
+    <label><input type="checkbox" id="showSpoilers"><strong>show spoilers</strong></label>
+    </span>
+  </div>
+
+  <div id="npcsContainer"></div>
+
+  <script type="module" src=".js/main.js"></script>
+
+  <div class="foot">
+    <img src="img/favicon-scroll.png" width="18px"><br>
+    <strong>made by happiegrub</strong> | switch to <a href=# id="themeToggle">dark mode</a><br>
+    <a href="#" id="clearDataButton">delete sitewide saved data</a>
+  </div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="🌱📖✨ fields of mistria fish tracker and how to find them!">
+  <meta name="keywords" content="fields of mistria, fieldsofmistria, mistria, fish guide, fish tracker">
+  <meta name="author" content="happiegrub">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+
+  <title>encyclopedia mistria - fish</title>
+  <link rel="icon" type="image/x-icon" href="img/favicon-scroll.png">
+</head>
+<body>
+  <body data-page="fish">
+  <div class="nav">
+    <span style="margin:10px;">
+      <a href="/index.html">npcs</a>
+      <a href="/fish.html">fish</a>
+      <a href="/bugs.html">bugs</a>
+      <a href="/bundles.html">bundles</a>
+      <a href="#top">search</a>
+    </span>
+  </div>
+
+  <div class="main">
+  <h1>encyclopedia mistria</h1>
+    <p>
+      <input type="text" id="searchInput" placeholder="  e.g. bass, ocean, fall, storm...  ">
+      <button id="resetButton">clear search</button>
+    </p>
+    <select id="seasonDropdown">
+      <option value="">all seasons</option>
+      <option value="spring">spring</option>
+      <option value="summer">summer</option>
+      <option value="fall">fall</option>
+      <option value="winter">winter</option>
+    </select>
+    <select id="weatherDropdown">
+      <option value="">any weather</option>
+      <option value="breezy">breezy</option>
+      <option value="rain">rain</option>
+      <option value="snow">snow</option>
+      <option value="storm">storm</option>
+      <option value="storm">blizzard</option>
+    </select>
+    <select id="habitatDropdown">
+      <option value="">any habitat</option>
+      <option value="river">river</option>
+      <option value="pond">pond</option>
+      <option value="ocean">ocean</option>
+      <option value="mines">mines</option>
+      <option value="deep woods">deep woods</option>
+    </select>
+    <br>
+    <span id="checkbox-span">
+    <label class="check"><input type="checkbox" id="hideCollection"><strong>hide collected</strong></label>
+    <label class="check"><input type="checkbox" id="onlyCollection"><strong>only show collected</strong></label>
+    </span>
+  </div>
+
+  <div id="smallContainer"></div>
+
+  <script type="module" src="./js/main.js"></script>
+
+  <div class="foot">
+    <img src="img/favicon-scroll.png" width="18px"><br>
+    <strong>made by happiegrub</strong> | switch to <a href=# id="themeToggle">dark mode</a><br>
+    <a href="#" id="clearDataButton">delete sitewide saved data</a>
+  </div>
+</body>
+</html>

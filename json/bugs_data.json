@@ -1,0 +1,1682 @@
+{
+  "butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "butterfly",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops",
+      "bushes"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "caterpillar": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "caterpillar",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "trees",
+      "stumps"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "flower crown beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "flower crown beetle",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "very rare",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "petalhopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "petalhopper",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "ladybug": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "ladybug",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "luna moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "luna moth",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "orchid mantis": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "orchid mantis",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "roly poly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "roly poly",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "snail": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "snail",
+    "seasons": [
+      "spring"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "grass",
+      "crops",
+      "rocks",
+      "stumps"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      "dell likes"
+    ]
+  },
+  "waterbug": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "waterbug",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cicada": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "cicada",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "trees",
+      "stumps"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "dozy likes"
+    ]
+  },
+  "cricket": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "cricket",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "dozy likes",
+      "luc likes"
+    ]
+  },
+  "dragonfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "dragonfly",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "firefly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "firefly",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "trees",
+      "buildings"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "dozy likes"
+    ]
+  },
+  "jewel beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "jewel beetle",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "grass",
+      "crops",
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "magma beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "magma beetle",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "rocks"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "strawhopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "strawhopper",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "strobe firefly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "strobe firefly",
+    "seasons": [
+      "summer"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "very rare",
+    "spawn_conditions": [
+      "trees",
+      "buildings"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "sand bug": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "sand bug",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "surf beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "surf beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "beach hopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "beach hopper",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "chillipede": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "chillipede",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "cicada nymph": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "cicada nymph",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "fairy bee": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "fairy bee",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "6 am - 11 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "very rare",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "inchworm": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "inchworm",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "leafhopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "leafhopper",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mist moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "mist moth",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "monarch butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "monarch butterfly",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "tiger swallowtail butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "tiger swallowtail butterfly",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "6 am - 5 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "walking leaf": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "walking leaf",
+    "seasons": [
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "trees"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "crystal caterpillar": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "crystal caterpillar",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "trees",
+      "stumps",
+      "rocks"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      "[spoiler] likes"
+    ]
+  },
+  "brightbulb moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "brightbulb moth",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "frost flutter butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "frost flutter butterfly",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "icehopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "icehopper",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "polar fly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "polar fly",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "snug bug": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "snug bug",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "relic crab": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "relic crab",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "snowball beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "snowball beetle",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "rarity": "very rare",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "walking stick": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "walking stick",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "stumps"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "winterpillar": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "winterpillar",
+    "seasons": [
+      "winter"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "trees",
+      "stumps"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "ant": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "ant",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "bumblebee": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "bumblebee",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "fuzzy moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "fuzzy moth",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      ""
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      "dozy likes",
+      "luc likes"
+    ]
+  },
+  "grasshopper": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "grasshopper",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "dozy likes"
+    ]
+  },
+  "hermit crab": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "hermit crab",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "beach"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      "dell loves"
+    ]
+  },
+  "hummingbird hawk moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "hummingbird hawk moth",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "crops"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "lightning dragonfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "lightning dragonfly",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "narrows",
+      "eastern road"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "pond skater": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "pond skater",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "water",
+      "narrows",
+      "eastern road",
+      "town"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "praying mantis": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "praying mantis",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "10",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "question mark butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "question mark butterfly",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 8 pm",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "grass",
+      "crops"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "redhead worm": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "redhead worm",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "speedy snail": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "speedy snail",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "6 am - 5 pm",
+    "weather_types": [
+      "sunny",
+      "breezy",
+      "rain",
+      "snow"
+    ],
+    "rarity": "very rare",
+    "spawn_conditions": [
+      "crops",
+      "stumps",
+      "rocks"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "rhinoceros beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "rhinoceros beetle",
+    "seasons": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "stumps",
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "no",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "lantern moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "lantern moth",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (1-19)"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "copper beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "copper beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (1-19)"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "worm": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "worm",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (1-19)",
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mine cricket": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "mine cricket",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "kinda rare",
+    "spawn_conditions": [
+      "mines (1-19)"
+    ],
+    "sell_price": "35",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "tunnel millipede": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "tunnel millipede",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (1-19)",
+      "rocks"
+    ],
+    "sell_price": "15",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sea scarab": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "sea scarab",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "mines (21-39)",
+      "rocks"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      "luc loves"
+    ]
+  },
+  "waterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "waterfly",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (21-39)"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "hermit snail": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "hermit snail",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (21-39)"
+    ],
+    "sell_price": "35",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "puddle spider": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "puddle spider",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "mines (21-39)"
+    ],
+    "sell_price": "45",
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "coral mantis": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "coral mantis",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (21-39)"
+    ],
+    "sell_price": "35",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "rock roach": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "rock roach",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (41-59)",
+      "rocks"
+    ],
+    "sell_price": "25",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "deep earthworm": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "deep earthworm",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (41-59)",
+      "rocks"
+    ],
+    "sell_price": "25",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "crystalline cricket": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "crystalline cricket",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (41-59)"
+    ],
+    "sell_price": "25",
+    "museum": "yes",
+    "uses": [
+      "dozy loves"
+    ]
+  },
+  "gem shard caterpillar": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "gem shard caterpillar",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (41-59)"
+    ],
+    "sell_price": "40",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "crystal wing moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "crystal wing moth",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "mines (41-59)"
+    ],
+    "sell_price": "50",
+    "museum": "yes",
+    "uses": [
+      "[spoiler] likes"
+    ]
+  },
+  "fire wasp": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "fire wasp",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (61-79)"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cooktop beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "cooktop beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "mines (61-79)"
+    ],
+    "sell_price": "30",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "lava snail": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "cooktop beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (61-79)"
+    ],
+    "sell_price": "45",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "smoke moth": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "smoke moth",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "mines (61-79)"
+    ],
+    "sell_price": "40",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "diamond beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "diamond beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "mines (61-79)"
+    ],
+    "sell_price": "75",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "dragon horn beetle": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "dragon horn beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "deep woods"
+    ],
+    "sell_price": "40",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "loam caterpillar": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "dragon horn beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "any"
+    ],
+    "rarity": "uncommon",
+    "spawn_conditions": [
+      "deep woods",
+      "trees"
+    ],
+    "sell_price": "35",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mote firefly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "dragon horn beetle",
+    "seasons": [
+      "all"
+    ],
+    "hours": "8 pm - 2 am",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "deep woods"
+    ],
+    "sell_price": "25",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "singing katydid": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "singing katydid",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "rare",
+    "spawn_conditions": [
+      "deep woods"
+    ],
+    "sell_price": "70",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "windleaf butterfly": {
+    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "bug_name": "windleaf butterfly",
+    "seasons": [
+      "all"
+    ],
+    "hours": "all day",
+    "weather_types": [
+      "sunny",
+      "breezy"
+    ],
+    "rarity": "common",
+    "spawn_conditions": [
+      "deep woods"
+    ],
+    "sell_price": "20",
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  }
+}

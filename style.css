@@ -1,0 +1,256 @@
+:root {
+  --bg-color: #b4e2c1;
+  --bg-img: url("img/background.png");
+  --card-bg-color: #fcfafa;
+  --font-color: #342c25;
+  --mark-color: #fcb4c8;
+  --h1-color: #fafcfa;
+  --nav-bg-color: #73bf89;
+  --nav-font-color: #284938;
+  --dotted-border-color: #73bf896c;
+}
+
+.dark-mode {
+  --bg-color: #1a1b2a;
+  --bg-img: url("img/background-dark.png");
+  --card-bg-color: #25263e;
+  --font-color: #afa4ce;
+  --mark-color: #ffd565;
+  --h1-color: #c58a36;
+  --nav-bg-color: #3c4368;
+  --nav-font-color: #bb8d4c;
+  --dotted-border-color: #8c81ac6f;
+}
+
+.roboto-slab-400 {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+  
+body { 
+  margin: 0; 
+  padding: 0;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  color: var(--font-color);
+  background-color: var(--bg-color);
+  background-image: var(--bg-img);
+  font-size: .9rem;
+}
+
+b, strong {
+  font-weight: 700;
+}
+
+mark { 
+  background-color: var(--mark-color); 
+  font-weight: bold; 
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--font-color);
+}
+
+.main {
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 0px;
+}
+
+.main h1 {
+  color: var(--h1-color);
+  margin: 0;
+  padding: 0;
+}
+
+.main span[id=checkbox-span] {
+  background-color: var(--card-bg-color);
+}
+
+.foot {
+  margin: 2% 1%;
+  text-align: center;
+  font-size: smaller;
+}
+
+.foot a:hover {
+  background-color: var(--mark-color); 
+  font-weight: bold; 
+}
+
+.nav {
+  text-align: center;
+  overflow: center;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: var(--nav-bg-color);
+  padding: 8px 2px;
+  font-weight: bold;
+  color: var(--nav-font-color);
+}
+
+.nav .three-grid {
+  align-items: baseline;
+}
+
+.nav a {
+  padding: 5px 10px;
+  font-size: 18px;
+  color: var(--nav-font-color);
+  text-decoration: none;
+}
+
+.nav a:hover {
+    color: var(--card-bg-color);
+}
+.npc-card, .bundle-card, .small-card { 
+  border: 3px solid transparent; 
+  padding: 5px; 
+  margin: 10px 7px;
+  border-radius: 15px;
+  background-color: var(--card-bg-color);
+}
+
+.bundle-card, .small-card {
+  padding: 20px;
+}
+
+.npc-card h2 {
+  text-align: center;
+  height: 10px;
+}
+
+.npc-card img {
+  display: block;
+  margin: auto;
+  margin-bottom: 25px;
+}
+
+.npc-card ul, .bundle-card ul {
+  list-style-type: none;
+  padding: 0;
+  line-height: 22px;
+}
+
+.npc-card li {
+  border-bottom: 3px dotted var(--dotted-border-color);
+  padding: 2px 0px;
+}
+
+.npc-card.hidden, .small-card.hidden {
+  display: none;
+}
+
+.small-card img {
+  float: left;
+  padding-right: 1%;
+}
+
+.small-card ul {
+  padding-inline-start: 15px;
+}
+
+.small-card hr {
+  color: transparent;
+  border-bottom: 3px dotted var(--dotted-border-color);
+}
+
+.bundle-card h3, .small-card h3 {
+  margin-top: 0;
+  border-bottom: 2px solid var(--dotted-border-color);
+  padding-bottom: 6px;
+  line-height: 26px;
+}
+
+.wing-info, .collected-checkbox {
+  float: right;
+  font-size: smaller;
+  margin-top: 8px;
+}
+
+.uses-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.collection-complete {
+  border: 3px solid var(--nav-bg-color);
+}
+
+.bundle-card.hidden {
+  display: none;
+}
+
+.npc-card .two-grid {
+  padding: 15px;
+}
+
+.two-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+#seasonDropdown, #weatherDropdown, #habitatDropdown, #bundlesTypeDropdown {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  height: 32px;
+  width: 110px;
+  border: 0;
+  margin-bottom: 10px;
+}
+
+#resetButton {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  height: 32px;
+  width: 90px;
+  border: 0;
+}
+
+#searchInput {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+  height: 30px;
+  width: 240px;
+  border: 0;
+}
+
+#npcsContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 450px);
+  gap: 5px;
+  margin: 1% 1%;
+  padding: 3px;
+  justify-content: center;
+}
+
+#smallContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 290px);
+  gap: 5px;
+  padding: 3px;
+  margin: 1% 3%;
+  justify-content: center;
+}
+
+/* phones */
+@media only screen 
+  and (width: 393px)
+  and (-webkit-device-pixel-ratio: 3) { 
+    body {
+      font-size: .7rem;
+    }
+    #npcsContainer {
+      grid-template-columns: 1fr;
+    }
+    #npcsContainer img {
+      width: 75%;
+    }
+}

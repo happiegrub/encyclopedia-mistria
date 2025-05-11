@@ -1,0 +1,2594 @@
+{
+  "smallmouth bass": {
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "smallmouth bass",
+    "size": "small",
+    "sell_price": "35",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "fish skewers ",
+      "fish stew ",
+      "cat treat "
+    ]
+  },
+  "bluegill":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bluegill",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "chub":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "chub",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "grayling":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "grayling",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "ultra common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "trout":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "trout",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "smoked trout soup ",
+      "dog treat ",
+      "faux fish wall plaque "
+    ]
+  },
+  "carp":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "carp",
+    "size": "medium",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "rock bass":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "rock bass",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "goby":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "goby",
+    "size": "medium",
+    "sell_price": "70",
+    "rarity": "uncommon",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "pike":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pike",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "fish skewers "
+    ]
+  },
+  "salmon":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "salmon",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "horseradish salmon ",
+      "pan-fried salmon ",
+      "salmon sashimi ",
+      "sushi platter "
+    ]
+  },
+  "walleye":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "walleye",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sturgeon":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sturgeon",
+    "size": "large",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "paddlefish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "paddlefish",
+    "size": "giant",
+    "sell_price": "90",
+    "rarity": "rare",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "minnow":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "minnow",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "loach":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "loach",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "dace":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "dace",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sweetfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sweetfish",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "gar":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "gar",
+    "size": "large",
+    "sell_price": "35",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "bream":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bream",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "pan-fried bream "
+    ]
+  },
+  "chum":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "chum",
+    "size": "large",
+    "sell_price": "75",
+    "rarity": "uncommon",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "tarpon":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "tarpon",
+    "size": "giant",
+    "sell_price": "100",
+    "rarity": "rare",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "lightning fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "lightning fish",
+    "size": "medium",
+    "sell_price": "500",
+    "rarity": "uncommon (legendary)",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "storm"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "lamprey":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "lamprey",
+    "size": "small",
+    "sell_price": "70",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "shad":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "shad",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "perch":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "perch",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      "perch risotto "
+    ]
+  },
+  "razorback":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "razorback",
+    "size": "medium",
+    "sell_price": "160",
+    "rarity": "rare",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "leaf fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "leaf fish",
+    "size": "small",
+    "sell_price": "500",
+    "rarity": "uncommon (legendary)",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "breezy"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "herring":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "herring",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "seafood snow pea noodles "
+    ]
+  },
+  "freshwater eel":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "freshwater eel",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "grilled eel rice bowl "
+    ]
+  },
+  "bowfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bowfish",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "shadow bass":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "shadow bass",
+    "size": "medium",
+    "sell_price": "140",
+    "rarity": "rare",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sardine":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sardine",
+    "size": "small",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dozy likes",
+      "canned sardines "
+    ]
+  },
+  "shrimp":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "shrimp",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "deluxe curry "
+    ]
+  },
+  "anchovy":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "anchovy",
+    "size": "small",
+    "sell_price": "35",
+    "rarity": "very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "butterfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "butterfish",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "squid":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "squid",
+    "size": "medium",
+    "sell_price": "30",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dried squid "
+    ]
+  },
+  "lobster":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "lobster",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "lobster roll "
+    ]
+  },
+  "sea bream":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sea bream",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "sea bream rice "
+    ]
+  },
+  "jellyfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "jellyfish",
+    "size": "medium",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "tuna":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "tuna",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dozy likes",
+      "sesame tuna bowl ",
+      "sushi platter ",
+      "tuna sashimi "
+    ]
+  },
+  "pollock":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pollock",
+    "size": "large",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mackerel":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "mackerel",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      "dozy likes",
+      "mackerel sashimi ",
+      "sushi platter "
+    ]
+  },
+  "red snapper":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "red snapper",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dozy likes",
+      "fish stew ",
+      "pan-fried snapper ",
+      "red snapper sushi "
+    ]
+  },
+  "swordfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "swordfish",
+    "size": "large",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "ocean sunfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "ocean sunfish",
+    "size": "giant",
+    "sell_price": "80",
+    "rarity": "rare",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "crab":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "crab",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "crab cakes , spicy crab sushi "
+    ]
+  },
+  "dart":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "dart",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sand lance":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sand lance",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "stingray":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "stingray",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "bonito":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bonito",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "seafood snow pea noodles "
+    ]
+  },
+  "puffer fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "puffer fish",
+    "size": "medium",
+    "sell_price": "90",
+    "rarity": "uncommon",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "char":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "char",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cod":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "cod",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dozy likes",
+      "cod with thyme "
+    ]
+  },
+  "octopus":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "octopus",
+    "size": "large",
+    "sell_price": "70",
+    "rarity": "uncommon",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "grouper":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "grouper",
+    "size": "giant",
+    "sell_price": "90",
+    "rarity": "rare",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "saury":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "saury",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mullet":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "mullet",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "halibut":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "halibut",
+    "size": "large",
+    "sell_price": "50",
+    "rarity": "ultra common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "shark":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "shark",
+    "size": "giant",
+    "sell_price": "100",
+    "rarity": "rare",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "horse mackerel":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "horse mackerel",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sea bass":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sea bass",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "king crab":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "king crab",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      "seafood snow pea noodles "
+    ]
+  },
+  "snow fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "snow fish",
+    "size": "medium",
+    "sell_price": "500",
+    "rarity": "uncommon (legendary)",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "snow",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "tetra":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "tetra",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "fish tank "
+    ]
+  },
+  "barb":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "barb",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "angelfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "angelfish",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "frog":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "frog",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dell likes",
+      "juniper likes"
+    ]
+  },
+  "roach":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "roach",
+    "size": "medium",
+    "sell_price": "35",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "crucian carp":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "crucian carp",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "koi":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "koi",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "catfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "catfish",
+    "size": "medium",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dozy loves",
+      "breaded catfish "
+    ]
+  },
+  "turtle":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "turtle",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "dell likes"
+    ]
+  },
+  "striped bass":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "striped bass",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "dell likes"
+    ]
+  },
+  "brown trout":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "brown trout",
+    "size": "large",
+    "sell_price": "50",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "snakehead":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "snakehead",
+    "size": "large",
+    "sell_price": "60",
+    "rarity": "uncommon",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring",
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "goldfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "goldfish",
+    "size": "small",
+    "sell_price": "120",
+    "rarity": "rare",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cherry fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "cherry fish",
+    "size": "small",
+    "sell_price": "500",
+    "rarity": "uncommon (legendary)",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "spring"
+    ],
+    "weather_types": [
+      "breezy"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "lake chub":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "lake chub",
+    "size": "small",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "golden shiner":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "golden shiner",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "bullfrog":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bullfrog",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "brown bullhead":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "brown bullhead",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "dell loves"
+    ]
+  },
+  "snapping turtle":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "snapping turtle",
+    "size": "large",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer",
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "sauger":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sauger",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "giant tilapia":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "giant tilapia",
+    "size": "giant",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "alligator gar":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "alligator gar",
+    "size": "giant",
+    "sell_price": "100",
+    "rarity": "rare",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "killifish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "killifish",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "rainbow trout":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "rainbow trout",
+    "size": "medium",
+    "sell_price": "35",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "bluefish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "bluefish",
+    "size": "large",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "white perch":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "white perch",
+    "size": "medium",
+    "sell_price": "120",
+    "rarity": "rare",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "fall"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "tilapia":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "tilapia",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "flathead catfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "flathead catfish",
+    "size": "medium",
+    "sell_price": "30",
+    "rarity": "common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "burbot":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "burbot",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "ultra common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "winter"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "giant koi":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "giant koi",
+    "size": "giant",
+    "sell_price": "90",
+    "rarity": "rare",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "summer"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sunny":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sunny",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "pond (deep woods)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "forest perch":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "forest perch",
+    "size": "medium",
+    "sell_price": "50",
+    "rarity": "common",
+    "water_type": [
+      "pond (deep woods)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "rain",
+      "snow",
+      "storm",
+      "blizzard"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "silver redhorse":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "forest perch",
+    "size": "medium",
+    "sell_price": "80",
+    "rarity": "uncommon",
+    "water_type": [
+      "pond (deep woods)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "muskie":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "muskie",
+    "size": "large",
+    "sell_price": "90",
+    "rarity": "uncommon",
+    "water_type": [
+      "pond (deep woods)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cave shrimp":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "cave shrimp",
+    "size": "small",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "mines (1-19)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "rock guppy":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "rock guppy",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "mines (1-19)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "no"
+    ]
+  },
+  "stone loach":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "stone loach",
+    "size": "medium",
+    "sell_price": "35",
+    "rarity": "common",
+    "water_type": [
+      "mines (1-19)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "cave eel":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "cave eel",
+    "size": "medium",
+    "sell_price": "50",
+    "rarity": "common",
+    "water_type": [
+      "mines (1-19)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "no"
+    ]
+  },
+  "cave shark":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "cave shark",
+    "size": "large",
+    "sell_price": "80",
+    "rarity": "common",
+    "water_type": [
+      "mines (1-19)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "no"
+    ]
+  },
+  "sapphire betta":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sapphire betta",
+    "size": "small",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "mines (21-39)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      "balor likes"
+    ]
+  },
+  "archerfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "archerfish",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "mines (21-39)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "transparent jellyfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "transparent jellyfish",
+    "size": "medium",
+    "sell_price": "40",
+    "rarity": "common",
+    "water_type": [
+      "mines (21-39)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "water balloon fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "water balloon fish",
+    "size": "medium",
+    "sell_price": "50",
+    "rarity": "common",
+    "water_type": [
+      "mines (21-39)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "mini whale shark":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "mini whale shark",
+    "size": "large",
+    "sell_price": "100",
+    "rarity": "common",
+    "water_type": [
+      "mines (21-39)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "emerald horned charger":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "emerald horned charger",
+    "size": "large",
+    "sell_price": "120",
+    "rarity": "common",
+    "water_type": [
+      "mines (41-59)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "earth eel":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "earth eel",
+    "size": "medium",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "mines (41-59)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "rockbiter":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "rockbiter",
+    "size": "medium",
+    "sell_price": "55",
+    "rarity": "common",
+    "water_type": [
+      "mines (41-59)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "pebble minnow":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pebble minnow",
+    "size": "small",
+    "sell_price": "45",
+    "rarity": "common",
+    "water_type": [
+      "mines (41-59)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "shardfin":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "shardfin",
+    "size": "small",
+    "sell_price": "55",
+    "rarity": "common",
+    "water_type": [
+      "mines (41-59)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "lava piranha":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "lava piranha",
+    "size": "small",
+    "sell_price": "50",
+    "rarity": "common",
+    "water_type": [
+      "mines (61-79)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "candelabra seadragon":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "candelabra seadragon",
+    "size": "small",
+    "sell_price": "60",
+    "rarity": "common",
+    "water_type": [
+      "mines (61-79)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "armored bass":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "armored bass",
+    "size": "medium",
+    "sell_price": "65",
+    "rarity": "common",
+    "water_type": [
+      "mines (61-79)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "sulfur crab":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "sulfur crab",
+    "size": "medium",
+    "sell_price": "60",
+    "rarity": "common",
+    "water_type": [
+      "mines (61-79)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "firesail fish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "firesail fish",
+    "size": "large",
+    "sell_price": "130",
+    "rarity": "common",
+    "water_type": [
+      "mines (61-79)"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "yes",
+    "uses": [
+      ""
+    ]
+  },
+  "seaweed":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "seaweed",
+    "size": "diving",
+    "sell_price": "15",
+    "rarity": "very very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "clam":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "clam",
+    "size": "diving",
+    "sell_price": "20",
+    "rarity": "very very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "pearl clam":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pearl clam",
+    "size": "diving",
+    "sell_price": "25",
+    "rarity": "very very common",
+    "water_type": [
+      "ocean"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "freshwater oyster":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "freshwater oyster",
+    "size": "diving",
+    "sell_price": "25",
+    "rarity": "very very common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "crayfish":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "crayfish",
+    "size": "diving",
+    "sell_price": "25",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "crayfish etouffee "
+    ]
+  },
+  "paper pondshell":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "paper pondshell",
+    "size": "diving",
+    "sell_price": "20",
+    "rarity": "very very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "pond snail":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pond snail",
+    "size": "diving",
+    "sell_price": "25",
+    "rarity": "very very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      ""
+    ]
+  },
+  "river snail":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "pond snail",
+    "size": "diving",
+    "sell_price": "20",
+    "rarity": "common",
+    "water_type": [
+      "river"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "luc likes"
+    ]
+  },
+  "newt":{
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "fish_name": "newt",
+    "size": "diving",
+    "sell_price": "25",
+    "rarity": "very very common",
+    "water_type": [
+      "pond"
+    ],
+    "seasons": [
+      "all"
+    ],
+    "weather_types": [
+      "any"
+    ],
+    "museum": "no",
+    "uses": [
+      "juniper likes"
+    ]
+  }
+}

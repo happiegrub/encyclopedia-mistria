@@ -1,0 +1,738 @@
+[
+  {
+    "bundles_flora": {
+      "spring crops": {
+        "wing": "flora",
+        "items": [
+          "cabbage",
+          "potato",
+          "strawberry",
+          "turnip",
+          "cherry"
+        ]
+      },
+      "spring flowers": {
+        "wing": "flora",
+        "items": [
+          "daffodil",
+          "tulip",
+          "dandelion",
+          "lilac",
+          "snowdrop anemone"
+        ]
+      },
+      "spring forage": {
+        "wing": "flora",
+        "items": [
+          "fennel",
+          "fiddlehead",
+          "morel mushroom",
+          "nettle",
+          "wild leek"
+        ]
+      },
+      "summer crops": {
+        "wing": "flora",
+        "items": [
+          "cucumber",
+          "chili pepper",
+          "watermelon",
+          "tomato",
+          "corn"
+        ]
+      },
+      "summer flowers": {
+        "wing": "flora",
+        "items": [
+          "daisy",
+          "iris",
+          "marigold",
+          "catmint",
+          "cosmos"
+        ]
+      },
+      "summer forage": {
+        "wing": "flora",
+        "items": [
+          "sage",
+          "basil",
+          "thyme",
+          "oregano",
+          "dill"
+        ]
+      },
+      "fall crops": {
+        "wing": "flora",
+        "items": [
+          "broccoli",
+          "cranberry",
+          "pumpkin",
+          "sweet potato",
+          "apple"
+        ]
+      },
+      "fall flowers": {
+        "wing": "flora",
+        "items": [
+          "celosia",
+          "chrysanthemum",
+          "fog orchid",
+          "heather",
+          "viola"
+        ]
+      },
+      "fall forage": {
+        "wing": "flora",
+        "items": [
+          "rosemary",
+          "garlic",
+          "horseradish",
+          "moon fruit",
+          "chestnut"
+        ]
+      },
+      "winter crops": {
+        "wing": "flora",
+        "items": [
+          "beet",
+          "cauliflower",
+          "snow peas",
+          "daikon radish",
+          "pomegranate"
+        ]
+      },
+      "winter flowers": {
+        "wing": "flora",
+        "items": [
+          "frost lily",
+          "poinsettia",
+          "jasmine",
+          "crocus",
+          "snapdragon"
+        ]
+      },
+      "winter forage": {
+        "wing": "flora",
+        "items": [
+          "burdock root",
+          "holly",
+          "pineshroom",
+          "oyster mushroom",
+          "rose hip"
+        ]
+      },
+      "deep woods": {
+        "wing": "flora",
+        "items": [
+          "thorn vine",
+          "spirit mushroom",
+          "temple flower",
+          "walnut",
+          "bell berry"
+        ]
+      },
+      "upper mines": {
+        "wing": "flora",
+        "items": [
+          "upper mines mushroom",
+          "red toadstool",
+          "sweetroot",
+          "shadow flower",
+          "narrows moss"
+        ]
+      },
+      "tide caverns": {
+        "wing": "flora",
+        "items": [
+          "underseaweed",
+          "sea grapes",
+          "cave kelp",
+          "mines mussels",
+          "tide lettuce"
+        ]
+      },
+      "deep earth": {
+        "wing": "flora",
+        "items": [
+          "crystal berries",
+          "shale grass",
+          "earthshroom",
+          "rockroot",
+          "crystal rose"
+        ]
+      },
+      "lava caves": {
+        "wing": "flora",
+        "items": [
+          "flame pepper",
+          "ash mushroom",
+          "lava chestnuts",
+          "hot potato",
+          "breath of fire"
+        ]
+      }
+    }
+  },
+  {
+    "bundles_archaeology": {
+      "aldarian": {
+        "wing": "archaeology",
+        "items": [
+          "aldarian sword",
+          "family crest pendant",
+          "aldarian war banner",
+          "aldarian gauntlet",
+          "lost crown of aldaria"
+        ]
+      },
+      "caldosian": {
+        "wing": "archaeology",
+        "items": [
+          "caldosian sword",
+          "caldosian emperor bust",
+          "caldosian breastplate",
+          "caldosian drinking horn",
+          "statuette of caldarus"
+        ]
+      },
+      "alda": {
+        "wing": "archaeology",
+        "items": [
+          "alda bronze sword",
+          "alda clay pot",
+          "alda feather pendant",
+          "alda gem bracelet",
+          "alda mural tablet"
+        ]
+      },
+      "ancient": {
+        "wing": "archaeology",
+        "items": [
+          "ancient stone lantern",
+          "ancient gold coin",
+          "ancient crystal goblet",
+          "ancient horn circlet",
+          "ancient royal scepter"
+        ]
+      },
+      "prehistoric": {
+        "wing": "archaeology",
+        "items": [
+          "amber trapped insect",
+          "trilobite fossil",
+          "tiny dinosaur skeleton",
+          "fossilized egg",
+          "meteorite"
+        ]
+      },
+      "oopart": {
+        "wing": "archaeology",
+        "items": [
+          "muttering cube",
+          "weightless stone",
+          "completely wrong map",
+          "black tablet",
+          "unknown dragon statuette"
+        ]
+      },
+      "aquatic": {
+        "wing": "archaeology",
+        "items": [
+          "rubber fish",
+          "giant fish scale",
+          "coin lump",
+          "water sphere",
+          "rusted treasure chest"
+        ]
+      },
+      "sunken": {
+        "wing": "archaeology",
+        "items": [
+          "rusted shield",
+          "rock with a hole",
+          "rainbow seaweed",
+          "criminal confession",
+          "mermaids comb"
+        ]
+      },
+      "deep woods": {
+        "wing": "archaeology",
+        "items": [
+          "petrified wood",
+          "gathering basket",
+          "crystal apple",
+          "metal leaf",
+          "fossilized mandrake root"
+        ]
+      },
+      "mines": {
+        "wing": "archaeology",
+        "items": [
+          "stone horse",
+          "flint arrowhead",
+          "obsidian blade",
+          "diamond backed mirror",
+          "shortcut scroll"
+        ]
+      },
+      "upper mines": {
+        "wing": "archaeology",
+        "items": [
+          "miners pickaxe",
+          "tin lunchbox",
+          "miners slab",
+          "miners rucksack",
+          "miners helmet"
+        ]
+      },
+      "tide caverns": {
+        "wing": "archaeology",
+        "items": [
+          "stone shell",
+          "tidestone",
+          "starlight coral",
+          "dense water",
+          "crab statue"
+        ]
+      },
+      "deep earth": {
+        "wing": "archaeology",
+        "items": [
+          "really round rock",
+          "seriously square stone",
+          "earth infused stone",
+          "faceted rock gem",
+          "rock statue"
+        ]
+      },
+      "lava caves": {
+        "wing": "archaeology",
+        "items": [
+          "fire crystal",
+          "warm rock",
+          "red obsidian",
+          "rainbow geode",
+          "tiny volcano"
+        ]
+      },
+      "gems of mistria": {
+        "wing": "archaeology",
+        "items": [
+          "perfect ruby",
+          "perfect sapphire",
+          "perfect emerald",
+          "perfect diamond",
+          "perfect pink diamond"
+        ]
+      },
+      "metals of mistria": {
+        "wing": "archaeology",
+        "items": [
+          "perfect copper ore",
+          "perfect iron ore",
+          "perfect silver ore",
+          "perfect gold ore",
+          "perfect mistril ore"
+        ]
+      },
+      "ritual": {
+        "wing": "archaeology",
+        "items": [
+          "ritual incense burner",
+          "ritual beads",
+          "ritual chalice",
+          "ritual scepter",
+          "ritual tablet"
+        ]
+      },
+      "vintage farm tools": {
+        "wing": "archaeology",
+        "items": [
+          "vintage watering can",
+          "vintage hammer",
+          "vintage sickle",
+          "vintage brush",
+          "vintage cow bell"
+        ]
+      },
+      "common finds": {
+        "wing": "archaeology",
+        "items": [
+          "sod",
+          "peat",
+          "shards",
+          "clay",
+          "shard mass"
+        ]
+      }
+    }
+  },
+  {
+    "bundles_fish": {
+      "spring river": {
+        "wing": "fish",
+        "items": [
+          "bluegill",
+          "chub",
+          "carp",
+          "walleye",
+          "paddlefish"
+        ]
+      },
+      "spring pond": {
+        "wing": "fish",
+        "items": [
+          "barb",
+          "angel fish",
+          "crucian carp",
+          "brown trout",
+          "goldfish"
+        ]
+      },
+      "spring ocean": {
+        "wing": "fish",
+        "items": [
+          "anchovy",
+          "shrimp",
+          "lobster",
+          "mackerel",
+          "ocean sunfish"
+        ]
+      },
+      "summer river": {
+        "wing": "fish",
+        "items": [
+          "minnow",
+          "loach",
+          "sweetfish",
+          "bream",
+          "tarpon"
+        ]
+      },
+      "summer pond": {
+        "wing": "fish",
+        "items": [
+          "lake chub",
+          "golden shiner",
+          "brown bullhead",
+          "sauger",
+          "giant koi"
+        ]
+      },
+      "summer ocean": {
+        "wing": "fish",
+        "items": [
+          "dart",
+          "crab",
+          "stingray",
+          "char",
+          "grouper"
+        ]
+      },
+      "fall river": {
+        "wing": "fish",
+        "items": [
+          "grayling",
+          "lamprey",
+          "shad",
+          "perch",
+          "razorback"
+        ]
+      },
+      "fall pond": {
+        "wing": "fish",
+        "items": [
+          "killifish",
+          "striped bass",
+          "rainbow trout",
+          "bluefish",
+          "white perch"
+        ]
+      },
+      "fall ocean": {
+        "wing": "fish",
+        "items": [
+          "saury",
+          "butterfish",
+          "mullet",
+          "halibut",
+          "shark"
+        ]
+      },
+      "winter river": {
+        "wing": "fish",
+        "items": [
+          "dace",
+          "herring",
+          "freshwater eel",
+          "bowfish",
+          "shadow bass"
+        ]
+      },
+      "winter pond": {
+        "wing": "fish",
+        "items": [
+          "tilapia",
+          "flathead catfish",
+          "burbot",
+          "giant tilapia",
+          "alligator gar"
+        ]
+      },
+      "winter ocean": {
+        "wing": "fish",
+        "items": [
+          "sand lance",
+          "horse mackerel",
+          "sea bass",
+          "king crab",
+          "oarfish"
+        ]
+      },
+      "multi season fish": {
+        "wing": "fish",
+        "items": [
+          "pollock",
+          "koi",
+          "pike",
+          "smallmouth bass",
+          "trout"
+        ]
+      },
+      "upper mines": {
+        "wing": "fish",
+        "items": [
+          "cave shrimp",
+          "rock guppy",
+          "stone loach",
+          "cave eel",
+          "cave shark"
+        ]
+      },
+      "tide caverns": {
+        "wing": "fish",
+        "items": [
+          "sapphire betta",
+          "archerfish",
+          "transparent jellyfish",
+          "water balloon fish",
+          "mini whale shark"
+        ]
+      },
+      "deep earth": {
+        "wing": "fish",
+        "items": [
+          "pebble minnow",
+          "shardfin",
+          "earth eel",
+          "rockbiter",
+          "emerald horned charger"
+        ]
+      },
+      "lava caves": {
+        "wing": "fish",
+        "items": [
+          "lava piranha",
+          "candelabra seadragon",
+          "armored bass",
+          "sulfur crab",
+          "firesail fish"
+        ]
+      },
+      "deep woods": {
+        "wing": "fish",
+        "items": [
+          "sunny",
+          "forest perch",
+          "silver redhorse",
+          "lake trout",
+          "muskie"
+        ]
+      },
+      "legendary": {
+        "wing": "fish",
+        "items": [
+          "cherry fish",
+          "lightning fish",
+          "leaf fish",
+          "snow fish"
+        ]
+      }
+    }
+  },
+  {
+    "bundles_bugs": {
+      "spring": {
+        "wing": "bugs",
+        "items": [
+          "luna moth",
+          "butterfly",
+          "ladybug",
+          "caterpillar",
+          "roly poly"
+        ]
+      },
+      "summer": {
+        "wing": "bugs",
+        "items": [
+          "cicada",
+          "cricket",
+          "dragonfly",
+          "firefly",
+          "sand bug"
+        ]
+      },
+      "fall": {
+        "wing": "bugs",
+        "items": [
+          "walking leaf",
+          "cicada nymph",
+          "monarch butterfly",
+          "inchworm",
+          "tiger swallowtail butterfly"
+        ]
+      },
+      "winter": {
+        "wing": "bugs",
+        "items": [
+          "crystal caterpillar",
+          "walking stick",
+          "brightbulb moth",
+          "frost flutter butterfly",
+          "winterpillar"
+        ]
+      },
+      "multi season bugs": {
+        "wing": "bugs",
+        "items": [
+          "ant",
+          "bumblebee",
+          "fuzzy moth",
+          "praying mantis",
+          "hummingbird hawk moth"
+        ]
+      },
+      "rare": {
+        "wing": "bugs",
+        "items": [
+          "jewel beetle",
+          "lightning dragonfly",
+          "magma beetle",
+          "mistmoth",
+          "orchid mantis"
+        ]
+      },
+      "upper mines": {
+        "wing": "bugs",
+        "items": [
+          "lantern moth",
+          "copper beetle",
+          "worm",
+          "mine cricket",
+          "tunnel millipede"
+        ]
+      },
+      "tide caverns": {
+        "wing": "bugs",
+        "items": [
+          "sea scarab",
+          "waterfly",
+          "hermit snail",
+          "puddle spider",
+          "coral mantis"
+        ]
+      },
+      "deep earth": {
+        "wing": "bugs",
+        "items": [
+          "rock roach",
+          "deep earthworm",
+          "crystalline cricket",
+          "gem shard caterpillar",
+          "crystal wing moth"
+        ]
+      },
+      "lava caves": {
+        "wing": "bugs",
+        "items": [
+          "fire wasp",
+          "cooktop beetle",
+          "lava snail",
+          "smoke moth",
+          "diamond beetle"
+        ]
+      },
+      "deep woods": {
+        "wing": "bugs",
+        "items": [
+          "windleaf butterfly",
+          "mote firefly",
+          "loam caterpillar",
+          "dragon horn beetle",
+          "singing katydid"
+        ]
+      },
+      "grass": {
+        "wing": "bugs",
+        "items": [
+          "grasshopper",
+          "petalhopper",
+          "strawhopper",
+          "leafhopper",
+          "icehopper"
+        ]
+      },
+      "beach": {
+        "wing": "bugs",
+        "items": [
+          "hermit crab",
+          "relic crab",
+          "waterbug",
+          "surf beetle",
+          "beach hopper"
+        ]
+      },
+      "legendary": {
+        "wing": "bugs",
+        "items": [
+          "fairy bee",
+          "flower crown beetle",
+          "snowball beetle",
+          "speedy snail",
+          "strobe firefly"
+        ]
+      }
+    }
+  },
+  {
+    "mine_seals": {
+      "water seal": {
+        "wing": "mines",
+        "items": [
+          "lantern moth",
+          "ore ruby",
+          "stone loach",
+          "upper mines mushroom"
+        ]
+      },
+      "earth seal": {
+        "wing": "mines",
+        "items": [
+          "coral mantis",
+          "ore sapphire",
+          "archerfish",
+          "cave kelp"
+        ]
+      },
+      "fire seal": {
+        "wing": "mines",
+        "items": [
+          "faceted rock gem",
+          "rockroot",
+          "ore emerald",
+          "sealing scroll"
+        ]
+      }
+    }
+  }
+]
