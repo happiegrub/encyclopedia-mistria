@@ -5,7 +5,7 @@ a handy lil resource for when you need to look up stuff for fields of mistria!!
 **things i may or may not add...**  
    
  🍣 cooking recipes  
- ⚒️ crafting recipes
+ ⚒️ crafting recipes  
  🍓 seeds/crops/profits  
  🌙 other light/dark mode themes  
  
