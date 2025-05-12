@@ -111,8 +111,8 @@ export function renderBugCards(data, query = "") {
         <p><strong>sell price: ${bug.sell_price}</strong><br>
         <strong>${highlightedRarity}</strong></p>
         <hr>
-        <p><strong>active hours:</strong><br>${bug.hours}</p>
-        ${habitatSection}
+        <strong>active hours:</strong> ${bug.hours}
+        <p>${habitatSection}</p>
         <div class="two-grid">
           <div>
             <strong>seasons:</strong>

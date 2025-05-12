@@ -1,6 +1,6 @@
 {
   "butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_butterfly_0.png",
     "bug_name": "butterfly",
     "seasons": [
       "spring"
@@ -23,7 +23,7 @@
     ]
   },
   "caterpillar": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_caterpillar_0.png",
     "bug_name": "caterpillar",
     "seasons": [
       "spring"
@@ -47,7 +47,7 @@
     ]
   },
   "flower crown beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_flowercrownbeetle_0.png",
     "bug_name": "flower crown beetle",
     "seasons": [
       "spring"
@@ -69,7 +69,7 @@
     ]
   },
   "petalhopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_petalhopper_0.png",
     "bug_name": "petalhopper",
     "seasons": [
       "spring"
@@ -90,7 +90,7 @@
     ]
   },
   "ladybug": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_ladybug_0.png",
     "bug_name": "ladybug",
     "seasons": [
       "spring"
@@ -114,7 +114,7 @@
     ]
   },
   "luna moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_lunamoth_0.png",
     "bug_name": "luna moth",
     "seasons": [
       "spring"
@@ -135,7 +135,7 @@
     ]
   },
   "orchid mantis": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_orchidmantis_0.png",
     "bug_name": "orchid mantis",
     "seasons": [
       "spring"
@@ -159,7 +159,7 @@
     ]
   },
   "roly poly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_pillbug_0.png",
     "bug_name": "roly poly",
     "seasons": [
       "spring"
@@ -179,7 +179,7 @@
     ]
   },
   "snail": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_snail_0.png",
     "bug_name": "snail",
     "seasons": [
       "spring"
@@ -202,7 +202,7 @@
     ]
   },
   "waterbug": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_waterbug_0.png",
     "bug_name": "waterbug",
     "seasons": [
       "all"
@@ -222,7 +222,7 @@
     ]
   },
   "cicada": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_cicada_0.png",
     "bug_name": "cicada",
     "seasons": [
       "summer"
@@ -244,7 +244,7 @@
     ]
   },
   "cricket": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_cricket_0.png",
     "bug_name": "cricket",
     "seasons": [
       "summer"
@@ -265,7 +265,7 @@
     ]
   },
   "dragonfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_dragonfly_0.png",
     "bug_name": "dragonfly",
     "seasons": [
       "summer"
@@ -289,7 +289,7 @@
     ]
   },
   "firefly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_firefly_0.png",
     "bug_name": "firefly",
     "seasons": [
       "summer"
@@ -311,7 +311,7 @@
     ]
   },
   "jewel beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_jewelbeetle_0.png",
     "bug_name": "jewel beetle",
     "seasons": [
       "summer"
@@ -333,7 +333,7 @@
     ]
   },
   "magma beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_magmabeetle_0.png",
     "bug_name": "magma beetle",
     "seasons": [
       "summer"
@@ -353,7 +353,7 @@
     ]
   },
   "strawhopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_strawhopper_0.png",
     "bug_name": "strawhopper",
     "seasons": [
       "summer"
@@ -374,7 +374,7 @@
     ]
   },
   "strobe firefly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_firefly_0.png",
     "bug_name": "strobe firefly",
     "seasons": [
       "summer"
@@ -396,7 +396,7 @@
     ]
   },
   "sand bug": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_sand_bug_0.png",
     "bug_name": "sand bug",
     "seasons": [
       "all"
@@ -416,7 +416,7 @@
     ]
   },
   "surf beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_surf_beetle_0.png",
     "bug_name": "surf beetle",
     "seasons": [
       "all"
@@ -436,7 +436,7 @@
     ]
   },
   "beach hopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_beach_hopper_0.png",
     "bug_name": "beach hopper",
     "seasons": [
       "all"
@@ -456,7 +456,7 @@
     ]
   },
   "chillipede": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_chillipede_0.png",
     "bug_name": "chillipede",
     "seasons": [
       "fall"
@@ -476,7 +476,7 @@
     ]
   },
   "cicada nymph": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_cicadanymph_0.png",
     "bug_name": "cicada nymph",
     "seasons": [
       "fall"
@@ -496,7 +496,7 @@
     ]
   },
   "fairy bee": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_fairybee_0.png",
     "bug_name": "fairy bee",
     "seasons": [
       "fall"
@@ -518,7 +518,7 @@
     ]
   },
   "inchworm": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_inchworm_0.png",
     "bug_name": "inchworm",
     "seasons": [
       "fall"
@@ -538,7 +538,7 @@
     ]
   },
   "leafhopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_leafhopper_0.png",
     "bug_name": "leafhopper",
     "seasons": [
       "fall"
@@ -559,7 +559,7 @@
     ]
   },
   "mist moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_mistmoth_0.png",
     "bug_name": "mist moth",
     "seasons": [
       "fall"
@@ -580,7 +580,7 @@
     ]
   },
   "monarch butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_monarchbutterfly_0.png",
     "bug_name": "monarch butterfly",
     "seasons": [
       "fall"
@@ -602,7 +602,7 @@
     ]
   },
   "tiger swallowtail butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_tigerswallowtailbutterfly_0.png",
     "bug_name": "tiger swallowtail butterfly",
     "seasons": [
       "fall"
@@ -624,7 +624,7 @@
     ]
   },
   "walking leaf": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_walkingleaf_0.png",
     "bug_name": "walking leaf",
     "seasons": [
       "fall"
@@ -644,7 +644,7 @@
     ]
   },
   "crystal caterpillar": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_crystalcaterpillar_0.png",
     "bug_name": "crystal caterpillar",
     "seasons": [
       "winter"
@@ -669,7 +669,7 @@
     ]
   },
   "brightbulb moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_brightbulb_moth_0.png",
     "bug_name": "brightbulb moth",
     "seasons": [
       "winter"
@@ -690,7 +690,7 @@
     ]
   },
   "frost flutter butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_frost_flutter_butterfly_0.png",
     "bug_name": "frost flutter butterfly",
     "seasons": [
       "winter"
@@ -712,7 +712,7 @@
     ]
   },
   "icehopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_icehopper_0.png",
     "bug_name": "icehopper",
     "seasons": [
       "winter"
@@ -733,7 +733,7 @@
     ]
   },
   "polar fly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_polar_fly_0.png",
     "bug_name": "polar fly",
     "seasons": [
       "winter"
@@ -755,7 +755,7 @@
     ]
   },
   "snug bug": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_snug_bug_0.png",
     "bug_name": "snug bug",
     "seasons": [
       "winter"
@@ -775,7 +775,7 @@
     ]
   },
   "relic crab": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_reliccrab_0.png",
     "bug_name": "relic crab",
     "seasons": [
       "all"
@@ -795,7 +795,7 @@
     ]
   },
   "snowball beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_snowballbeetle_0.png",
     "bug_name": "snowball beetle",
     "seasons": [
       "winter"
@@ -817,7 +817,7 @@
     ]
   },
   "walking stick": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_walkingstick_0.png",
     "bug_name": "walking stick",
     "seasons": [
       "winter"
@@ -838,7 +838,7 @@
     ]
   },
   "winterpillar": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_winterpillar_0.png",
     "bug_name": "winterpillar",
     "seasons": [
       "winter"
@@ -860,7 +860,7 @@
     ]
   },
   "ant": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_ant_0.png",
     "bug_name": "ant",
     "seasons": [
       "spring",
@@ -885,7 +885,7 @@
     ]
   },
   "bumblebee": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_bumblebee_0.png",
     "bug_name": "bumblebee",
     "seasons": [
       "spring",
@@ -909,7 +909,7 @@
     ]
   },
   "fuzzy moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_fuzzymoth_0.png",
     "bug_name": "fuzzy moth",
     "seasons": [
       "spring",
@@ -933,7 +933,7 @@
     ]
   },
   "grasshopper": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_grasshopper_0.png",
     "bug_name": "grasshopper",
     "seasons": [
       "spring",
@@ -957,7 +957,7 @@
     ]
   },
   "hermit crab": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_hermitcrab_0.png",
     "bug_name": "hermit crab",
     "seasons": [
       "all"
@@ -977,7 +977,7 @@
     ]
   },
   "hummingbird hawk moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_hummingbirdhawkmoth_0.png",
     "bug_name": "hummingbird hawk moth",
     "seasons": [
       "spring",
@@ -1000,7 +1000,7 @@
     ]
   },
   "lightning dragonfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_lightningdragonfly_0.png",
     "bug_name": "lightning dragonfly",
     "seasons": [
       "spring",
@@ -1025,7 +1025,7 @@
     ]
   },
   "pond skater": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_pondskater_0.png",
     "bug_name": "pond skater",
     "seasons": [
       "all"
@@ -1051,7 +1051,7 @@
     ]
   },
   "praying mantis": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_prayingmantis_0.png",
     "bug_name": "praying mantis",
     "seasons": [
       "spring",
@@ -1075,7 +1075,7 @@
     ]
   },
   "question mark butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_questionmarkbutterfly_0.png",
     "bug_name": "question mark butterfly",
     "seasons": [
       "spring",
@@ -1099,7 +1099,7 @@
     ]
   },
   "redhead worm": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_redhead_worm_0.png",
     "bug_name": "redhead worm",
     "seasons": [
       "spring",
@@ -1121,7 +1121,7 @@
     ]
   },
   "speedy snail": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_speedysnail_0.png",
     "bug_name": "speedy snail",
     "seasons": [
       "spring",
@@ -1148,7 +1148,7 @@
     ]
   },
   "rhinoceros beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_rhinocerosbeetle_0.png",
     "bug_name": "rhinoceros beetle",
     "seasons": [
       "spring",
@@ -1171,7 +1171,7 @@
     ]
   },
   "lantern moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_lantern_moth_0.png",
     "bug_name": "lantern moth",
     "seasons": [
       "all"
@@ -1191,7 +1191,7 @@
     ]
   },
   "copper beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_copper_beetle_0.png",
     "bug_name": "copper beetle",
     "seasons": [
       "all"
@@ -1211,7 +1211,7 @@
     ]
   },
   "worm": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_worm_0.png",
     "bug_name": "worm",
     "seasons": [
       "all"
@@ -1232,7 +1232,7 @@
     ]
   },
   "mine cricket": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_mine_cricket_0.png",
     "bug_name": "mine cricket",
     "seasons": [
       "all"
@@ -1252,7 +1252,7 @@
     ]
   },
   "tunnel millipede": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_tunnel_millipede_0.png",
     "bug_name": "tunnel millipede",
     "seasons": [
       "all"
@@ -1273,7 +1273,7 @@
     ]
   },
   "sea scarab": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_sea_scarab_0.png",
     "bug_name": "sea scarab",
     "seasons": [
       "all"
@@ -1294,7 +1294,7 @@
     ]
   },
   "waterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_waterfly_0.png",
     "bug_name": "waterfly",
     "seasons": [
       "all"
@@ -1314,7 +1314,7 @@
     ]
   },
   "hermit snail": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_hermit_snail_0.png",
     "bug_name": "hermit snail",
     "seasons": [
       "all"
@@ -1334,7 +1334,7 @@
     ]
   },
   "puddle spider": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_puddle_spider_0.png",
     "bug_name": "puddle spider",
     "seasons": [
       "all"
@@ -1354,7 +1354,7 @@
     ]
   },
   "coral mantis": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_coral_mantis_0.png",
     "bug_name": "coral mantis",
     "seasons": [
       "all"
@@ -1374,7 +1374,7 @@
     ]
   },
   "rock roach": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_rock_roach_0.png",
     "bug_name": "rock roach",
     "seasons": [
       "all"
@@ -1395,7 +1395,7 @@
     ]
   },
   "deep earthworm": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_deep_earthworm_0.png",
     "bug_name": "deep earthworm",
     "seasons": [
       "all"
@@ -1416,7 +1416,7 @@
     ]
   },
   "crystalline cricket": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_crystalline_cricket_0.png",
     "bug_name": "crystalline cricket",
     "seasons": [
       "all"
@@ -1436,7 +1436,7 @@
     ]
   },
   "gem shard caterpillar": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_gem_shard_caterpillar_0.png",
     "bug_name": "gem shard caterpillar",
     "seasons": [
       "all"
@@ -1456,7 +1456,7 @@
     ]
   },
   "crystal wing moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_crystal_wing_moth_0.png",
     "bug_name": "crystal wing moth",
     "seasons": [
       "all"
@@ -1476,7 +1476,7 @@
     ]
   },
   "fire wasp": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_fire_wasp_0.png",
     "bug_name": "fire wasp",
     "seasons": [
       "all"
@@ -1496,7 +1496,7 @@
     ]
   },
   "cooktop beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_cooktop_beetle_0.png",
     "bug_name": "cooktop beetle",
     "seasons": [
       "all"
@@ -1516,8 +1516,8 @@
     ]
   },
   "lava snail": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
-    "bug_name": "cooktop beetle",
+    "img": "img/bugs/spr_ui_item_insect_lava_snail_0.png",
+    "bug_name": "lava snail",
     "seasons": [
       "all"
     ],
@@ -1536,7 +1536,7 @@
     ]
   },
   "smoke moth": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_smoke_moth_0.png",
     "bug_name": "smoke moth",
     "seasons": [
       "all"
@@ -1556,7 +1556,7 @@
     ]
   },
   "diamond beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_diamond_beetle_0.png",
     "bug_name": "diamond beetle",
     "seasons": [
       "all"
@@ -1576,7 +1576,7 @@
     ]
   },
   "dragon horn beetle": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_dragon_horn_beetle_0.png",
     "bug_name": "dragon horn beetle",
     "seasons": [
       "all"
@@ -1596,8 +1596,8 @@
     ]
   },
   "loam caterpillar": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
-    "bug_name": "dragon horn beetle",
+    "img": "img/bugs/spr_ui_item_insect_loam_caterpillar_0.png",
+    "bug_name": "loam caterpillar",
     "seasons": [
       "all"
     ],
@@ -1617,8 +1617,8 @@
     ]
   },
   "mote firefly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
-    "bug_name": "dragon horn beetle",
+    "img": "img/bugs/spr_ui_item_insect_mote_firefly_0.png",
+    "bug_name": "mote firefly",
     "seasons": [
       "all"
     ],
@@ -1638,7 +1638,7 @@
     ]
   },
   "singing katydid": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_singing_katydid_0.png",
     "bug_name": "singing katydid",
     "seasons": [
       "all"
@@ -1659,7 +1659,7 @@
     ]
   },
   "windleaf butterfly": {
-    "img": "img/bugs/spr_ui_item_insect_butterfly.png",
+    "img": "img/bugs/spr_ui_item_insect_windleaf_butterfly_0.png",
     "bug_name": "windleaf butterfly",
     "seasons": [
       "all"

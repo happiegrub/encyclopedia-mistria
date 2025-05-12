@@ -14,7 +14,7 @@
   --bg-color: #1a1b2a;
   --bg-img: url("img/background-dark.png");
   --card-bg-color: #25263e;
-  --font-color: #afa4ce;
+  --font-color: #b1a6cf;
   --mark-color: #ffd565;
   --h1-color: #c58a36;
   --nav-bg-color: #3c4368;
@@ -224,7 +224,7 @@ a {
 
 #npcsContainer {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 450px);
+  grid-template-columns: repeat(auto-fill, 420px);
   gap: 5px;
   margin: 1% 1%;
   padding: 3px;
@@ -233,7 +233,7 @@ a {
 
 #smallContainer {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 290px);
+  grid-template-columns: repeat(auto-fill, 270px);
   gap: 5px;
   padding: 3px;
   margin: 1% 3%;

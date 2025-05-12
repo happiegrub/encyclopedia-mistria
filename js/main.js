@@ -129,7 +129,6 @@ document.addEventListener("DOMContentLoaded", () => {
       : "dark mode";
     // when the user clicks the link save their choce and update the link text
     themeToggle.addEventListener("click", (e) => {
-      e.preventDefault(); // this stops the page from jumping to the top
       const isDark = html.classList.toggle("dark-mode");
       localStorage.setItem("theme", isDark ? "dark" : "light");
       themeToggle.textContent = isDark

@@ -140,7 +140,6 @@
     ],
     "liked_gifts": [
       "alpaca wool",
-      "wood",
       "bristle",
       "bull horn",
       "clay",
@@ -158,7 +157,8 @@
       "rabbit wool",
       "feather",
       "sheep wool",
-      "stone"
+      "stone",
+      "wood"
     ]
   },
   "ryis": {
@@ -180,7 +180,6 @@
       "veggie sub sandwich"
     ],
     "liked_gifts": [
-      "wood",
       "beer",
       "bread",
       "bristle",
@@ -199,7 +198,8 @@
       "obsidian",
       "paper",
       "stone",
-      "strawberry shortcake"
+      "strawberry shortcake",
+      "wood"
     ]
   },
   "maple": {
@@ -739,7 +739,6 @@
     "birthday": "fall 16",
     "dateable": false,
     "loved_gifts": [
-      "wood",
       "hard boiled egg",
       "catfish",
       "crystalline cricket",
@@ -748,7 +747,8 @@
       "hard wood",
       "dog treat",
       "petrified wood",
-      "tiny dinosaur skeleton"
+      "tiny dinosaur skeleton",
+      "wood"
     ],
     "liked_gifts": [
       "butterfly",
@@ -916,7 +916,6 @@
     ],
     "liked_gifts": [
       "apple",
-      "wood",
       "blackberry",
       "caramel candy",
       "cattail",
@@ -934,7 +933,8 @@
       "snail",
       "stone",
       "trail mix",
-      "turtle"
+      "turtle",
+      "wood"
     ]
   },
   "seridia": {
@@ -1065,7 +1065,6 @@
       "shard mass"
     ],
     "liked_gifts": [
-      "wood",
       "bristle",
       "bull horn",
       "canned sardines",
@@ -1084,7 +1083,8 @@
       "shards",
       "tomato soup",
       "vegetable pot pie",
-      "vegetable soup"
+      "vegetable soup",
+      "wood"
     ]
   },
   "holt": {

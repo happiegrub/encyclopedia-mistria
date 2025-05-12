@@ -1,6 +1,6 @@
 {
   "smallmouth bass": {
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass_0.png",
     "fish_name": "smallmouth bass",
     "size": "small",
     "sell_price": "35",
@@ -22,7 +22,7 @@
     ]
   },
   "bluegill":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_blue_gill_0.png",
     "fish_name": "bluegill",
     "size": "small",
     "sell_price": "40",
@@ -42,7 +42,7 @@
     ]
   },
   "chub":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_chub_0.png",
     "fish_name": "chub",
     "size": "small",
     "sell_price": "45",
@@ -62,7 +62,7 @@
     ]
   },
   "grayling":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_grayling_0.png",
     "fish_name": "grayling",
     "size": "small",
     "sell_price": "40",
@@ -85,7 +85,7 @@
     ]
   },
   "trout":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_trout_0.png",
     "fish_name": "trout",
     "size": "medium",
     "sell_price": "40",
@@ -107,7 +107,7 @@
     ]
   },
   "carp":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_carp_0.png",
     "fish_name": "carp",
     "size": "medium",
     "sell_price": "35",
@@ -127,7 +127,7 @@
     ]
   },
   "rock bass":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_rock_bass_0.png",
     "fish_name": "rock bass",
     "size": "medium",
     "sell_price": "40",
@@ -148,7 +148,7 @@
     ]
   },
   "goby":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_goby_0.png",
     "fish_name": "goby",
     "size": "medium",
     "sell_price": "70",
@@ -168,7 +168,7 @@
     ]
   },
   "pike":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_pike_0.png",
     "fish_name": "pike",
     "size": "large",
     "sell_price": "45",
@@ -188,7 +188,7 @@
     ]
   },
   "salmon":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_salmon_0.png",
     "fish_name": "salmon",
     "size": "large",
     "sell_price": "40",
@@ -212,7 +212,7 @@
     ]
   },
   "walleye":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_walleye_0.png",
     "fish_name": "walleye",
     "size": "large",
     "sell_price": "45",
@@ -235,7 +235,7 @@
     ]
   },
   "sturgeon":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_sturgeon_0.png",
     "fish_name": "sturgeon",
     "size": "large",
     "sell_price": "80",
@@ -256,7 +256,7 @@
     ]
   },
   "paddlefish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_paddlefish_0.png",
     "fish_name": "paddlefish",
     "size": "giant",
     "sell_price": "90",
@@ -276,7 +276,7 @@
     ]
   },
   "minnow":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_minnow_0.png",
     "fish_name": "minnow",
     "size": "small",
     "sell_price": "40",
@@ -296,7 +296,7 @@
     ]
   },
   "loach":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_loach_0.png",
     "fish_name": "loach",
     "size": "small",
     "sell_price": "45",
@@ -316,7 +316,7 @@
     ]
   },
   "dace":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_dace_0.png",
     "fish_name": "dace",
     "size": "small",
     "sell_price": "45",
@@ -339,7 +339,7 @@
     ]
   },
   "sweetfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_sweetfish_0.png",
     "fish_name": "sweetfish",
     "size": "medium",
     "sell_price": "45",
@@ -359,7 +359,7 @@
     ]
   },
   "gar":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_gar_0.png",
     "fish_name": "gar",
     "size": "large",
     "sell_price": "35",
@@ -380,7 +380,7 @@
     ]
   },
   "bream":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_bream_0.png",
     "fish_name": "bream",
     "size": "large",
     "sell_price": "45",
@@ -400,7 +400,7 @@
     ]
   },
   "chum":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_chum_0.png",
     "fish_name": "chum",
     "size": "large",
     "sell_price": "75",
@@ -421,7 +421,7 @@
     ]
   },
   "tarpon":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_tarpon_0.png",
     "fish_name": "tarpon",
     "size": "giant",
     "sell_price": "100",
@@ -441,7 +441,7 @@
     ]
   },
   "lightning fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_lightning_fish_0.png",
     "fish_name": "lightning fish",
     "size": "medium",
     "sell_price": "500",
@@ -461,7 +461,7 @@
     ]
   },
   "lamprey":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_lamprey_0.png",
     "fish_name": "lamprey",
     "size": "small",
     "sell_price": "70",
@@ -481,7 +481,7 @@
     ]
   },
   "shad":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_shad_0.png",
     "fish_name": "shad",
     "size": "medium",
     "sell_price": "40",
@@ -501,7 +501,7 @@
     ]
   },
   "perch":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_perch_0.png",
     "fish_name": "perch",
     "size": "large",
     "sell_price": "45",
@@ -524,7 +524,7 @@
     ]
   },
   "razorback":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_razorback_0.png",
     "fish_name": "razorback",
     "size": "medium",
     "sell_price": "160",
@@ -544,7 +544,7 @@
     ]
   },
   "leaf fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_leaf_fish_0.png",
     "fish_name": "leaf fish",
     "size": "small",
     "sell_price": "500",
@@ -564,7 +564,7 @@
     ]
   },
   "herring":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_herring_0.png",
     "fish_name": "herring",
     "size": "small",
     "sell_price": "45",
@@ -584,7 +584,7 @@
     ]
   },
   "freshwater eel":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_freshwater_eel_0.png",
     "fish_name": "freshwater eel",
     "size": "medium",
     "sell_price": "45",
@@ -604,7 +604,7 @@
     ]
   },
   "bowfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_bowfish_0.png",
     "fish_name": "bowfish",
     "size": "large",
     "sell_price": "40",
@@ -624,7 +624,7 @@
     ]
   },
   "shadow bass":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_shadow_bass_0.png",
     "fish_name": "shadow bass",
     "size": "medium",
     "sell_price": "140",
@@ -644,7 +644,7 @@
     ]
   },
   "sardine":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_sardine_0.png",
     "fish_name": "sardine",
     "size": "small",
     "sell_price": "35",
@@ -665,7 +665,7 @@
     ]
   },
   "shrimp":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_shrimp_0.png",
     "fish_name": "shrimp",
     "size": "small",
     "sell_price": "40",
@@ -685,7 +685,7 @@
     ]
   },
   "anchovy":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_anchovy_0.png",
     "fish_name": "anchovy",
     "size": "small",
     "sell_price": "35",
@@ -705,7 +705,7 @@
     ]
   },
   "butterfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_butterfish_0.png",
     "fish_name": "butterfish",
     "size": "small",
     "sell_price": "40",
@@ -725,7 +725,7 @@
     ]
   },
   "squid":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_squid_0.png",
     "fish_name": "squid",
     "size": "medium",
     "sell_price": "30",
@@ -745,7 +745,7 @@
     ]
   },
   "lobster":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_lobster_0.png",
     "fish_name": "lobster",
     "size": "medium",
     "sell_price": "40",
@@ -765,7 +765,7 @@
     ]
   },
   "sea bream":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_sea_bream_0.png",
     "fish_name": "sea bream",
     "size": "medium",
     "sell_price": "45",
@@ -786,7 +786,7 @@
     ]
   },
   "jellyfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_jellyfish_0.png",
     "fish_name": "jellyfish",
     "size": "medium",
     "sell_price": "80",
@@ -807,7 +807,7 @@
     ]
   },
   "tuna":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_tuna_0.png",
     "fish_name": "tuna",
     "size": "large",
     "sell_price": "40",
@@ -830,7 +830,7 @@
     ]
   },
   "pollock":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_pollock_0.png",
     "fish_name": "pollock",
     "size": "large",
     "sell_price": "35",
@@ -850,7 +850,7 @@
     ]
   },
   "mackerel":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_mackerel_0.png",
     "fish_name": "mackerel",
     "size": "large",
     "sell_price": "45",
@@ -875,7 +875,7 @@
     ]
   },
   "red snapper":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_red_snapper_0.png",
     "fish_name": "red snapper",
     "size": "large",
     "sell_price": "45",
@@ -898,7 +898,7 @@
     ]
   },
   "swordfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_swordfish_0.png",
     "fish_name": "swordfish",
     "size": "large",
     "sell_price": "80",
@@ -919,7 +919,7 @@
     ]
   },
   "ocean sunfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_ocean_sunfish_0.png",
     "fish_name": "ocean sunfish",
     "size": "giant",
     "sell_price": "80",
@@ -939,7 +939,7 @@
     ]
   },
   "crab":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_crab_0.png",
     "fish_name": "crab",
     "size": "small",
     "sell_price": "40",
@@ -955,11 +955,12 @@
     ],
     "museum": "yes",
     "uses": [
-      "crab cakes , spicy crab sushi "
+      "crab cakes", 
+      "spicy crab sushi "
     ]
   },
   "dart":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_dart_0.png",
     "fish_name": "dart",
     "size": "small",
     "sell_price": "45",
@@ -979,7 +980,7 @@
     ]
   },
   "sand lance":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_sand_lance_0.png",
     "fish_name": "sand lance",
     "size": "small",
     "sell_price": "45",
@@ -999,7 +1000,7 @@
     ]
   },
   "stingray":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_stingray_0.png",
     "fish_name": "stingray",
     "size": "medium",
     "sell_price": "40",
@@ -1019,7 +1020,7 @@
     ]
   },
   "bonito":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_bonito_0.png",
     "fish_name": "bonito",
     "size": "medium",
     "sell_price": "45",
@@ -1040,7 +1041,7 @@
     ]
   },
   "puffer fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_puffer_fish_0.png",
     "fish_name": "puffer fish",
     "size": "medium",
     "sell_price": "90",
@@ -1061,7 +1062,7 @@
     ]
   },
   "char":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_char_0.png",
     "fish_name": "char",
     "size": "large",
     "sell_price": "40",
@@ -1081,7 +1082,7 @@
     ]
   },
   "cod":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_cod_0.png",
     "fish_name": "cod",
     "size": "large",
     "sell_price": "45",
@@ -1103,7 +1104,7 @@
     ]
   },
   "octopus":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_octopus_0.png",
     "fish_name": "octopus",
     "size": "large",
     "sell_price": "70",
@@ -1124,7 +1125,7 @@
     ]
   },
   "grouper":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_grouper_0.png",
     "fish_name": "grouper",
     "size": "giant",
     "sell_price": "90",
@@ -1144,9 +1145,9 @@
     ]
   },
   "saury":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_saury_0.png",
     "fish_name": "saury",
-    "size": "large",
+    "size": "small",
     "sell_price": "45",
     "rarity": "common",
     "water_type": [
@@ -1164,7 +1165,7 @@
     ]
   },
   "mullet":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_mullet_0.png",
     "fish_name": "mullet",
     "size": "medium",
     "sell_price": "40",
@@ -1184,7 +1185,7 @@
     ]
   },
   "halibut":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_halibut_0.png",
     "fish_name": "halibut",
     "size": "large",
     "sell_price": "50",
@@ -1207,7 +1208,7 @@
     ]
   },
   "shark":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_shark_0.png",
     "fish_name": "shark",
     "size": "giant",
     "sell_price": "100",
@@ -1227,7 +1228,7 @@
     ]
   },
   "horse mackerel":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_horse_mackerel_0.png",
     "fish_name": "horse mackerel",
     "size": "small",
     "sell_price": "40",
@@ -1247,7 +1248,7 @@
     ]
   },
   "sea bass":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_sea_bass_0.png",
     "fish_name": "sea bass",
     "size": "medium",
     "sell_price": "40",
@@ -1267,7 +1268,7 @@
     ]
   },
   "king crab":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_king_crab_0.png",
     "fish_name": "king crab",
     "size": "large",
     "sell_price": "45",
@@ -1290,7 +1291,7 @@
     ]
   },
   "snow fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_snow_fish_0.png",
     "fish_name": "snow fish",
     "size": "medium",
     "sell_price": "500",
@@ -1311,7 +1312,7 @@
     ]
   },
   "tetra":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_tetra_0.png",
     "fish_name": "tetra",
     "size": "small",
     "sell_price": "40",
@@ -1331,7 +1332,7 @@
     ]
   },
   "barb":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_barb_0.png",
     "fish_name": "barb",
     "size": "small",
     "sell_price": "40",
@@ -1351,7 +1352,7 @@
     ]
   },
   "angelfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_angel_fish_0.png",
     "fish_name": "angelfish",
     "size": "small",
     "sell_price": "45",
@@ -1371,7 +1372,7 @@
     ]
   },
   "frog":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_frog_0.png",
     "fish_name": "frog",
     "size": "small",
     "sell_price": "45",
@@ -1393,7 +1394,7 @@
     ]
   },
   "roach":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_roach_0.png",
     "fish_name": "roach",
     "size": "medium",
     "sell_price": "35",
@@ -1413,7 +1414,7 @@
     ]
   },
   "crucian carp":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_crucian_carp_0.png",
     "fish_name": "crucian carp",
     "size": "medium",
     "sell_price": "40",
@@ -1433,7 +1434,7 @@
     ]
   },
   "koi":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_koi_0.png",
     "fish_name": "koi",
     "size": "medium",
     "sell_price": "40",
@@ -1453,7 +1454,7 @@
     ]
   },
   "catfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_catfish_0.png",
     "fish_name": "catfish",
     "size": "medium",
     "sell_price": "80",
@@ -1474,7 +1475,7 @@
     ]
   },
   "turtle":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_turtle_0.png",
     "fish_name": "turtle",
     "size": "large",
     "sell_price": "45",
@@ -1494,7 +1495,7 @@
     ]
   },
   "striped bass":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_striped_bass_0.png",
     "fish_name": "striped bass",
     "size": "large",
     "sell_price": "40",
@@ -1514,7 +1515,7 @@
     ]
   },
   "brown trout":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_brown_trout_0.png",
     "fish_name": "brown trout",
     "size": "large",
     "sell_price": "50",
@@ -1534,7 +1535,7 @@
     ]
   },
   "snakehead":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_snakehead_0.png",
     "fish_name": "snakehead",
     "size": "large",
     "sell_price": "60",
@@ -1555,7 +1556,7 @@
     ]
   },
   "goldfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_goldfish_0.png",
     "fish_name": "goldfish",
     "size": "small",
     "sell_price": "120",
@@ -1575,7 +1576,7 @@
     ]
   },
   "cherry fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_cherry_fish_0.png",
     "fish_name": "cherry fish",
     "size": "small",
     "sell_price": "500",
@@ -1595,7 +1596,7 @@
     ]
   },
   "lake chub":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_lake_chub_0.png",
     "fish_name": "lake chub",
     "size": "small",
     "sell_price": "35",
@@ -1615,7 +1616,7 @@
     ]
   },
   "golden shiner":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_golden_shiner_0.png",
     "fish_name": "golden shiner",
     "size": "small",
     "sell_price": "45",
@@ -1635,7 +1636,7 @@
     ]
   },
   "bullfrog":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_bullfrog_0.png",
     "fish_name": "bullfrog",
     "size": "small",
     "sell_price": "45",
@@ -1659,7 +1660,7 @@
     ]
   },
   "brown bullhead":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_brown_bullhead_0.png",
     "fish_name": "brown bullhead",
     "size": "medium",
     "sell_price": "40",
@@ -1679,7 +1680,7 @@
     ]
   },
   "snapping turtle":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_snapping_turtle_0.png",
     "fish_name": "snapping turtle",
     "size": "large",
     "sell_price": "40",
@@ -1700,7 +1701,7 @@
     ]
   },
   "sauger":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_sauger_0.png",
     "fish_name": "sauger",
     "size": "large",
     "sell_price": "45",
@@ -1720,7 +1721,7 @@
     ]
   },
   "giant tilapia":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_giant_tilapia_0.png",
     "fish_name": "giant tilapia",
     "size": "giant",
     "sell_price": "80",
@@ -1740,7 +1741,7 @@
     ]
   },
   "alligator gar":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_alligator_gar_0.png",
     "fish_name": "alligator gar",
     "size": "giant",
     "sell_price": "100",
@@ -1760,7 +1761,7 @@
     ]
   },
   "killifish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_killifish_0.png",
     "fish_name": "killifish",
     "size": "small",
     "sell_price": "40",
@@ -1780,7 +1781,7 @@
     ]
   },
   "rainbow trout":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_rainbow_trout_0.png",
     "fish_name": "rainbow trout",
     "size": "medium",
     "sell_price": "35",
@@ -1800,7 +1801,7 @@
     ]
   },
   "bluefish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_bluefish_0.png",
     "fish_name": "bluefish",
     "size": "large",
     "sell_price": "45",
@@ -1823,7 +1824,7 @@
     ]
   },
   "white perch":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_white_perch_0.png",
     "fish_name": "white perch",
     "size": "medium",
     "sell_price": "120",
@@ -1843,7 +1844,7 @@
     ]
   },
   "tilapia":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_tilapia_0.png",
     "fish_name": "tilapia",
     "size": "small",
     "sell_price": "45",
@@ -1863,7 +1864,7 @@
     ]
   },
   "flathead catfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_flathead_catfish_0.png",
     "fish_name": "flathead catfish",
     "size": "medium",
     "sell_price": "30",
@@ -1883,9 +1884,9 @@
     ]
   },
   "burbot":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_burbot_0.png",
     "fish_name": "burbot",
-    "size": "medium",
+    "size": "large",
     "sell_price": "45",
     "rarity": "ultra common",
     "water_type": [
@@ -1906,7 +1907,7 @@
     ]
   },
   "giant koi":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_giant_giant_koi_0.png",
     "fish_name": "giant koi",
     "size": "giant",
     "sell_price": "90",
@@ -1926,7 +1927,7 @@
     ]
   },
   "sunny":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_sunny_0.png",
     "fish_name": "sunny",
     "size": "small",
     "sell_price": "45",
@@ -1949,7 +1950,7 @@
     ]
   },
   "forest perch":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_forest_perch_0.png",
     "fish_name": "forest perch",
     "size": "medium",
     "sell_price": "50",
@@ -1972,7 +1973,7 @@
     ]
   },
   "silver redhorse":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_forest_perch_0.png",
     "fish_name": "forest perch",
     "size": "medium",
     "sell_price": "80",
@@ -1992,7 +1993,7 @@
     ]
   },
   "muskie":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_muskie_0.png",
     "fish_name": "muskie",
     "size": "large",
     "sell_price": "90",
@@ -2012,7 +2013,7 @@
     ]
   },
   "cave shrimp":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_cave_shrimp_0.png",
     "fish_name": "cave shrimp",
     "size": "small",
     "sell_price": "35",
@@ -2032,7 +2033,7 @@
     ]
   },
   "rock guppy":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_rock_guppy_0.png",
     "fish_name": "rock guppy",
     "size": "small",
     "sell_price": "40",
@@ -2048,11 +2049,11 @@
     ],
     "museum": "yes",
     "uses": [
-      "no"
+      ""
     ]
   },
   "stone loach":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_stone_loach_0.png",
     "fish_name": "stone loach",
     "size": "medium",
     "sell_price": "35",
@@ -2072,7 +2073,7 @@
     ]
   },
   "cave eel":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_cave_eel_0.png",
     "fish_name": "cave eel",
     "size": "medium",
     "sell_price": "50",
@@ -2088,11 +2089,11 @@
     ],
     "museum": "yes",
     "uses": [
-      "no"
+      ""
     ]
   },
   "cave shark":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_cave_shark_0.png",
     "fish_name": "cave shark",
     "size": "large",
     "sell_price": "80",
@@ -2108,11 +2109,11 @@
     ],
     "museum": "yes",
     "uses": [
-      "no"
+      ""
     ]
   },
   "sapphire betta":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_sapphire_betta_0.png",
     "fish_name": "sapphire betta",
     "size": "small",
     "sell_price": "40",
@@ -2132,7 +2133,7 @@
     ]
   },
   "archerfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_archerfish_0.png",
     "fish_name": "archerfish",
     "size": "small",
     "sell_price": "45",
@@ -2152,7 +2153,7 @@
     ]
   },
   "transparent jellyfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_transparent_jellyfish_0.png",
     "fish_name": "transparent jellyfish",
     "size": "medium",
     "sell_price": "40",
@@ -2172,7 +2173,7 @@
     ]
   },
   "water balloon fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_water_balloon_fish_0.png",
     "fish_name": "water balloon fish",
     "size": "medium",
     "sell_price": "50",
@@ -2192,7 +2193,7 @@
     ]
   },
   "mini whale shark":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_mini_whale_shark_0.png",
     "fish_name": "mini whale shark",
     "size": "large",
     "sell_price": "100",
@@ -2212,7 +2213,7 @@
     ]
   },
   "emerald horned charger":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_emerald_horned_charger_0.png",
     "fish_name": "emerald horned charger",
     "size": "large",
     "sell_price": "120",
@@ -2232,7 +2233,7 @@
     ]
   },
   "earth eel":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_earth_eel_0.png",
     "fish_name": "earth eel",
     "size": "medium",
     "sell_price": "45",
@@ -2252,7 +2253,7 @@
     ]
   },
   "rockbiter":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_rockbiter_0.png",
     "fish_name": "rockbiter",
     "size": "medium",
     "sell_price": "55",
@@ -2272,7 +2273,7 @@
     ]
   },
   "pebble minnow":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_pebble_minnow_0.png",
     "fish_name": "pebble minnow",
     "size": "small",
     "sell_price": "45",
@@ -2292,7 +2293,7 @@
     ]
   },
   "shardfin":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_shardfin_0.png",
     "fish_name": "shardfin",
     "size": "small",
     "sell_price": "55",
@@ -2312,7 +2313,7 @@
     ]
   },
   "lava piranha":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_lava_piranha_0.png",
     "fish_name": "lava piranha",
     "size": "small",
     "sell_price": "50",
@@ -2332,7 +2333,7 @@
     ]
   },
   "candelabra seadragon":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_small_candelabra_seadragon_0.png",
     "fish_name": "candelabra seadragon",
     "size": "small",
     "sell_price": "60",
@@ -2352,7 +2353,7 @@
     ]
   },
   "armored bass":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_armored_bass_0.png",
     "fish_name": "armored bass",
     "size": "medium",
     "sell_price": "65",
@@ -2372,7 +2373,7 @@
     ]
   },
   "sulfur crab":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_medium_sulfur_crab_0.png",
     "fish_name": "sulfur crab",
     "size": "medium",
     "sell_price": "60",
@@ -2392,7 +2393,7 @@
     ]
   },
   "firesail fish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_fish_large_firesail_fish_0.png",
     "fish_name": "firesail fish",
     "size": "large",
     "sell_price": "130",
@@ -2412,7 +2413,7 @@
     ]
   },
   "seaweed":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_seaweed.png",
     "fish_name": "seaweed",
     "size": "diving",
     "sell_price": "15",
@@ -2432,7 +2433,7 @@
     ]
   },
   "clam":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_clam.png",
     "fish_name": "clam",
     "size": "diving",
     "sell_price": "20",
@@ -2452,7 +2453,7 @@
     ]
   },
   "pearl clam":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_pearl_clam.png",
     "fish_name": "pearl clam",
     "size": "diving",
     "sell_price": "25",
@@ -2472,7 +2473,7 @@
     ]
   },
   "freshwater oyster":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_freshwater_oyster.png",
     "fish_name": "freshwater oyster",
     "size": "diving",
     "sell_price": "25",
@@ -2492,7 +2493,7 @@
     ]
   },
   "crayfish":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_crayfish.png",
     "fish_name": "crayfish",
     "size": "diving",
     "sell_price": "25",
@@ -2512,7 +2513,7 @@
     ]
   },
   "paper pondshell":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_paper_pondshell.png",
     "fish_name": "paper pondshell",
     "size": "diving",
     "sell_price": "20",
@@ -2532,7 +2533,7 @@
     ]
   },
   "pond snail":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_pond_snail.png",
     "fish_name": "pond snail",
     "size": "diving",
     "sell_price": "25",
@@ -2552,7 +2553,7 @@
     ]
   },
   "river snail":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_snail.png",
     "fish_name": "pond snail",
     "size": "diving",
     "sell_price": "20",
@@ -2572,7 +2573,7 @@
     ]
   },
   "newt":{
-    "img": "img/fish/spr_ui_item_fish_small_smallmouth_bass.png",
+    "img": "img/fish/spr_ui_item_dive_newt.png",
     "fish_name": "newt",
     "size": "diving",
     "sell_price": "25",
