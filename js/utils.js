@@ -1,3 +1,4 @@
+/** 🃏 S T U F F   A B O U T   R E N D E R I N G 🃏 **/
 // fetch the correct json file and render the page
 export function fetchAndRender(url, setter, renderer) {
   // try to get the json file
@@ -25,6 +26,38 @@ function escapeRegExp(string) {
     return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
 
+/** 🌙 S T U F F   A B O U T   T H E M E S 🌙 **/
+// theme toggle between light -> dark -> gray
+export function applyTheme(theme) {
+  const html = document.documentElement;
+  const themeToggle = document.getElementById("themeToggle");
+
+  html.classList.toggle("dark-mode", theme === "dark");
+  html.classList.toggle("gray-mode", theme === "gray");
+
+  switch (theme) {
+    case "light":
+      themeToggle.textContent = "🌙"; // go to dark
+      break;
+    case "dark":
+      themeToggle.textContent = "☁️"; // go to gray
+      break;
+    case "gray":
+      themeToggle.textContent = "☀️"; // go to light
+      break;
+  }
+
+  localStorage.setItem("theme", theme);
+}
+
+// function to cycle through the themes in correct order
+export function nextTheme(current) {
+  if (current === "light") return "dark";
+  if (current === "dark")  return "gray";
+  return "light";
+}
+
+/** ⚙️ S T U F F   A B O U T   S E T T I N G S ⚙️ **/
 // clear the users saved data from local storage
 export function clearAllData() {
   const confirm = window.confirm (

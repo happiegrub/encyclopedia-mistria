@@ -1,10 +1,12 @@
 import { toggleSettings, clearAllData } from "./utils.js";
+import { applyTheme, nextTheme } from "./utils.js";
 import { importLocalStorage, exportLocalStorage } from "./utils.js";
 import { loadNpcs, allNpcs, renderNpcCards } from "./npcs.js";
 import { loadFish, allFish, renderFishCards } from "./fish.js";
 import { loadBugs, allBugs, renderBugCards } from "./bugs.js";
 import { loadBundles, allBundles, renderBundlesCards } from "./bundles.js";
 
+/** 🃏 S T U F F   A B O U T   R E N D E R I N G 🃏 **/
 // call the correct render function
 function getPageRender(pageType, query) {
   switch (pageType) {
@@ -139,27 +141,21 @@ document.addEventListener("DOMContentLoaded", () => {
       getPageRender(pageType, "");
     }
     
-    // dark mode light mode
+    /** 🌙 S T U F F   A B O U T   T H E M E S 🌙 **/
     const themeToggle = document.getElementById("themeToggle");
-    const html = document.documentElement;
-    // check what the saved theme is, default is light
-    const savedTheme = localStorage.getItem("theme") || "light";
-    // apply the saved data to to html
-    html.classList.toggle("dark-mode", savedTheme === "dark");
-    // change the text on the link
-    themeToggle.textContent = savedTheme === "dark"
-      ? "☀️"
-      : "🌙";
-    // when the user clicks the link save their choce and update the link text
-    themeToggle.addEventListener("click", (e) => {
-      const isDark = html.classList.toggle("dark-mode");
-      localStorage.setItem("theme", isDark ? "dark" : "light");
-      themeToggle.textContent = isDark
-      ? "☀️"
-      : "🌙";
+
+    // get whatever theme is saved or default to light
+    let current = localStorage.getItem("theme") || "light";
+    // apply it 
+    applyTheme(current);
+    // clicking on the theme link will make it switch
+    themeToggle.addEventListener("click", e => {
       e.preventDefault();
+      current = nextTheme(current);
+      applyTheme(current);
     });
 
+    /** ⚙️ S T U F F   A B O U T   S E T T I N G S ⚙️ **/
     // checking to see if the settings link is being clicked
     const link = document.getElementById("settingsLink");
     if (!link) return;
