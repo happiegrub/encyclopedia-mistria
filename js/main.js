@@ -1,4 +1,5 @@
-import { clearAllData } from "./utils.js";
+import { toggleSettings, clearAllData } from "./utils.js";
+import { importLocalStorage, exportLocalStorage } from "./utils.js";
 import { loadNpcs, allNpcs, renderNpcCards } from "./npcs.js";
 import { loadFish, allFish, renderFishCards } from "./fish.js";
 import { loadBugs, allBugs, renderBugCards } from "./bugs.js";
@@ -116,6 +117,28 @@ document.addEventListener("DOMContentLoaded", () => {
         console.warn("issues with pagetype:", pageType);
     }
 
+    // this is the 'clear all' button next to the search bar
+    function resetData() {
+      // clear search and filter inputs
+      [ "searchInput", "seasonDropdown", "weatherDropdown",
+        "habitatDropdown", "bundlesTypeDropdown" ]
+        .forEach(id => {
+          const el = document.getElementById(id);
+          if (!el) return;
+          if (el.type === "checkbox") el.checked = false;
+          else el.value = "";
+        });
+      [ "hideCollection", "onlyCollection", "showSpoilers", "onlyDateable" ]
+        .forEach(id => {
+          const el = document.getElementById(id);
+          if (el) el.checked = false;
+        });
+
+      // re-render the page
+      const pageType = document.body.dataset.page;
+      getPageRender(pageType, "");
+    }
+    
     // dark mode light mode
     const themeToggle = document.getElementById("themeToggle");
     const html = document.documentElement;
@@ -125,36 +148,37 @@ document.addEventListener("DOMContentLoaded", () => {
     html.classList.toggle("dark-mode", savedTheme === "dark");
     // change the text on the link
     themeToggle.textContent = savedTheme === "dark"
-      ? "light mode"
-      : "dark mode";
+      ? "☀️"
+      : "🌙";
     // when the user clicks the link save their choce and update the link text
     themeToggle.addEventListener("click", (e) => {
       const isDark = html.classList.toggle("dark-mode");
       localStorage.setItem("theme", isDark ? "dark" : "light");
       themeToggle.textContent = isDark
-        ? "light mode"
-        : "dark mode";
+      ? "☀️"
+      : "🌙";
+      e.preventDefault();
     });
+
+    // checking to see if the settings link is being clicked
+    const link = document.getElementById("settingsLink");
+    if (!link) return;
+    link.addEventListener("click", (e) => {
+      toggleSettings();     // open the div
+    });
+
+    // checking to see if export or import links are being clicked
+    document.getElementById("btnExport").addEventListener("click", () => {
+      const exported = exportLocalStorage();
+      document.getElementById("storageExport").value = exported;
+    });
+
+    document.getElementById("btnImport").addEventListener("click", () => {
+      const str = document.getElementById("storageImport").value.trim();
+      if (!str) return alert("please use a valid import code!");
+      const overwrite = importLocalStorage(str, true);
+      alert(overwrite ? "import successful!" : "import failed.");
+      if (overwrite) location.reload(); // reload the page after import
+    });
+
 });
-
-// this is the 'clear all' button next to the search bar
-function resetData() {
-  // clear search and filter inputs
-  [ "searchInput", "seasonDropdown", "weatherDropdown",
-    "habitatDropdown", "bundlesTypeDropdown" ]
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (!el) return;
-      if (el.type === "checkbox") el.checked = false;
-      else el.value = "";
-    });
-  [ "hideCollection", "onlyCollection", "showSpoilers", "onlyDateable" ]
-    .forEach(id => {
-      const el = document.getElementById(id);
-      if (el) el.checked = false;
-    });
-
-  // re-render the page
-  const pageType = document.body.dataset.page;
-  getPageRender(pageType, "");
-}

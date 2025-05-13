@@ -19,13 +19,16 @@
 <body>
   <body data-page="bundles">
   <div class="nav">
-    <span style="margin:10px;">
-      <a href="/encyclopedia-mistria/index.html">npcs</a>
-      <a href="/encyclopedia-mistria/fish.html">fish</a>
-      <a href="/encyclopedia-mistria/bugs.html">bugs</a>
-      <a href="/encyclopedia-mistria/bundles.html">bundles</a>
+    <div class="nav-center">
+      <a href="/index.html">npcs</a>
+      <a href="/fish.html">fish</a>
+      <a href="/bugs.html">bugs</a>
+      <a href="/bundles.html">bundles</a>
       <a href="#top">search</a>
-    </span>
+    </div>
+    <div class="nav-right">
+      <a href=# id="themeToggle">☀️/🌙</a> <a href="#settingsContainer" id="settingsLink">⚙️</a>
+    </div>
   </div>
 
   <div class="main">
@@ -51,12 +54,32 @@
 
   <div id="smallContainer"></div>
 
-  <script type="module" src="/encyclopedia-mistria/js/main.js"></script>
+  <script type="module" src="/js/main.js"></script>
 
+  <div id="settingsContainer">
+    <div class="settings-box">
+      <p>
+        this site saves your collections to your browser's local storage.<br>
+        if you need to backup or move your progress to another device<br>
+        you can generate a special code to export and import your data!<br><br>
+      </p>
+    
+      <p>
+        <button id="btnExport">get an export code</button>
+        <br><textarea id="storageExport" readonly rows="1" cols="40"></textarea><br>
+        <br><br>
+        <button id="btnImport">import code</button>
+        <br><textarea id="storageImport" placeholder="paste your code here then press import!!" rows="1" cols="40"></textarea>
+        <br><br>
+      </p>
+      <p>
+        <a href="#" id="clearDataButton">delete all saved data</a>
+      </p>
+    </div>
+  </div>
   <div class="foot">
     <img src="img/favicon-scroll.png" width="18px"><br>
-    <strong>made by happiegrub</strong> | switch to <a href=# id="themeToggle">dark mode</a><br>
-    <a href="#" id="clearDataButton">delete sitewide saved data</a>
+    <strong>made by happiegrub</strong>
   </div>
 </body>
 </html>
